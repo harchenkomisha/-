@@ -1,3 +1,4 @@
+#8
 n = int(input())
 line = 1
 i = 1
